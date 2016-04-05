@@ -19,5 +19,7 @@ After opening the tool, click on the File --> Open and open the nunit.tests.dll 
 framework. Now you can select which test/tests you want and click Run button. When button Run is clicked, it will show the results as follows.
 
 Passed Test - Green color
+
 Failed Test - Red color
+
 Ignored Test - Yellow color
