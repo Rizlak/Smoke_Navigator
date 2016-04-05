@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\Q\Desktop\final smoke_navigator\smoke_navigator\smoke_navigator\bin\Debug\smoke_navigator.dll" total="53" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2016-04-05" time="15:48:17">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.5420" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.4\bin" machine-name="Q-PC" user="Q" user-domain="Q-PC" />
+  <culture-info current-culture="bs-Latn-BA" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\Q\Desktop\final smoke_navigator\smoke_navigator\smoke_navigator\bin\Debug\smoke_navigator.dll" executed="True" result="Success" success="True" time="234.728" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="smoke_navigator" executed="True" result="Success" success="True" time="234.701" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="Create_Place" executed="True" result="Success" success="True" time="19.479" asserts="0">
+            <results>
+              <test-case name="smoke_navigator.Create_Place.TC57_isCreatePlaceModalOpened" executed="True" result="Success" success="True" time="10.655" asserts="1" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="Main_part_of_page" executed="True" result="Success" success="True" time="50.970" asserts="0">
+            <results>
+              <test-case name="smoke_navigator.Main_part_of_page.TC21_isMapPresent" executed="True" result="Success" success="True" time="8.257" asserts="2" />
+              <test-case name="smoke_navigator.Main_part_of_page.TC22_isMenuBarPresent" executed="True" result="Success" success="True" time="0.080" asserts="2" />
+              <test-case name="smoke_navigator.Main_part_of_page.TC23_plusMinusButtonsArePresent" executed="True" result="Success" success="True" time="0.087" asserts="4" />
+              <test-case name="smoke_navigator.Main_part_of_page.TC24_zoomInzoomOut" executed="True" result="Success" success="True" time="6.650" asserts="0" />
+              <test-case name="smoke_navigator.Main_part_of_page.TC25_isLayerToSatelite_MapPresent" executed="True" result="Success" success="True" time="0.886" asserts="2" />
+              <test-case name="smoke_navigator.Main_part_of_page.TC26_isChangedToSateliteMapView" executed="True" result="Success" success="True" time="3.761" asserts="1" />
+              <test-case name="smoke_navigator.Main_part_of_page.TC27_isChangedToMapSateliteView" executed="True" result="Success" success="True" time="3.611" asserts="1" />
+              <test-case name="smoke_navigator.Main_part_of_page.TC28_isGooglePlayButtonPresent" executed="True" result="Success" success="True" time="0.246" asserts="1" />
+              <test-case name="smoke_navigator.Main_part_of_page.TC29_isSeparateTabGooglePlayOpened" executed="True" result="Success" success="True" time="4.211" asserts="1" />
+              <test-case name="smoke_navigator.Main_part_of_page.TC30_isAppStoreButtonPresent" executed="True" result="Success" success="True" time="0.101" asserts="1" />
+              <test-case name="smoke_navigator.Main_part_of_page.TC31_isSeparateTabAppStoreOpened" executed="True" result="Success" success="True" time="3.305" asserts="1" />
+              <test-case name="smoke_navigator.Main_part_of_page.TC32_isAboutLinkPresent" executed="True" result="Success" success="True" time="2.539" asserts="1" />
+              <test-case name="smoke_navigator.Main_part_of_page.TC33_isAboutLinkLeadsTOUrl" executed="True" result="Success" success="True" time="5.008" asserts="1" />
+              <test-case name="smoke_navigator.Main_part_of_page.TC34_isLeafletLinkPresent" executed="True" result="Success" success="True" time="0.607" asserts="1" />
+              <test-case name="smoke_navigator.Main_part_of_page.TC35_isAtlantBHLinkPresent" executed="True" result="Success" success="True" time="0.358" asserts="1" />
+              <test-case name="smoke_navigator.Main_part_of_page.TC36_isSeparateTabAtlantBHOpened" executed="True" result="Success" success="True" time="3.679" asserts="1" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="Make_Navigator__a_better_place" executed="True" result="Success" success="True" time="23.437" asserts="0">
+            <results>
+              <test-case name="smoke_navigator.Make_Navigator__a_better_place.TC60_isSuggestFeaturesReportProblemOpen" executed="True" result="Success" success="True" time="9.183" asserts="1" />
+              <test-case name="smoke_navigator.Make_Navigator__a_better_place.TC61_isSuggestFeaturesReportProblemOpenPossibleWithoutComment" executed="True" result="Success" success="True" time="5.344" asserts="1" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="MenuBar" executed="True" result="Success" success="True" time="35.668" asserts="0">
+            <results>
+              <test-case name="smoke_navigator.MenuBar.TC39_isMenubarScrollPresent" executed="True" result="Success" success="True" time="8.996" asserts="1" />
+              <test-case name="smoke_navigator.MenuBar.TC40_isSarajevoTheatresWithPicturePresent" executed="True" result="Success" success="True" time="0.117" asserts="1" />
+              <test-case name="smoke_navigator.MenuBar.TC41_isAccomodationPresent" executed="True" result="Success" success="True" time="18.489" asserts="1" />
+              <test-case name="smoke_navigator.MenuBar.TC42_isFoodPresent" executed="True" result="Success" success="True" time="0.063" asserts="1" />
+              <test-case name="smoke_navigator.MenuBar.TC43_isCoffeePresent" executed="True" result="Success" success="True" time="0.051" asserts="1" />
+              <test-case name="smoke_navigator.MenuBar.TC44_isNightlifePresent" executed="True" result="Success" success="True" time="0.060" asserts="1" />
+              <test-case name="smoke_navigator.MenuBar.TC45_isShoppingPresent" executed="True" result="Success" success="True" time="0.062" asserts="1" />
+              <test-case name="smoke_navigator.MenuBar.TC46_isAttractionsPresent" executed="True" result="Success" success="True" time="0.054" asserts="1" />
+              <test-case name="smoke_navigator.MenuBar.TC47_isArtPresent" executed="True" result="Success" success="True" time="0.049" asserts="1" />
+              <test-case name="smoke_navigator.MenuBar.TC48_isSportPresent" executed="True" result="Success" success="True" time="0.047" asserts="1" />
+              <test-case name="smoke_navigator.MenuBar.TC49_isTransportPresent" executed="True" result="Success" success="True" time="0.069" asserts="1" />
+              <test-case name="smoke_navigator.MenuBar.TC50_isServicesPresent" executed="True" result="Success" success="True" time="0.058" asserts="1" />
+              <test-case name="smoke_navigator.MenuBar.TC51_isBusinessPresent" executed="True" result="Success" success="True" time="0.047" asserts="1" />
+              <test-case name="smoke_navigator.MenuBar.TC52_isStreetPresent" executed="True" result="Success" success="True" time="0.047" asserts="1" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="NavigationBar" executed="True" result="Success" success="True" time="105.125" asserts="0">
+            <results>
+              <test-case name="smoke_navigator.NavigationBar.TC1_isUrlOk" executed="True" result="Success" success="True" time="9.062" asserts="1" />
+              <test-case name="smoke_navigator.NavigationBar.TC10_isCreatePlaceModalOpened" executed="True" result="Success" success="True" time="1.264" asserts="1" />
+              <test-case name="smoke_navigator.NavigationBar.TC11_isSuggestFeaturesReportProblem" executed="True" result="Success" success="True" time="1.431" asserts="1" />
+              <test-case name="smoke_navigator.NavigationBar.TC12_isSuggestFeaturesReportProblemModalOpened" executed="True" result="Success" success="True" time="0.698" asserts="1" />
+              <test-case name="smoke_navigator.NavigationBar.TC13_isSocialFacebookIconPresent" executed="True" result="Success" success="True" time="0.314" asserts="1" />
+              <test-case name="smoke_navigator.NavigationBar.TC14_isSocialTwitterIconPresent" executed="True" result="Success" success="True" time="0.069" asserts="1" />
+              <test-case name="smoke_navigator.NavigationBar.TC15_isSocialGoogleIconPresent" executed="True" result="Success" success="True" time="0.055" asserts="1" />
+              <test-case name="smoke_navigator.NavigationBar.TC16_isSocialopenedInSeparateTab" executed="True" result="Success" success="True" time="10.618" asserts="6" />
+              <test-case name="smoke_navigator.NavigationBar.TC17_isHoveringOverSocial" executed="True" result="Success" success="True" time="0.105" asserts="1" />
+              <test-case name="smoke_navigator.NavigationBar.TC18_isLanguagePickerPresent" executed="True" result="Success" success="True" time="0.252" asserts="1" />
+              <test-case name="smoke_navigator.NavigationBar.TC19_isUserAbleChangePageLenguage" executed="True" result="Success" success="True" time="17.232" asserts="1" />
+              <test-case name="smoke_navigator.NavigationBar.TC2_isLogoPresent" executed="True" result="Success" success="True" time="0.074" asserts="1" />
+              <test-case name="smoke_navigator.NavigationBar.TC20_isChangingLanguageReflectsOnWholePage" executed="True" result="Success" success="True" time="39.645" asserts="2" />
+              <test-case name="smoke_navigator.NavigationBar.TC3_isLogoredirectingToMainPage" executed="True" result="Success" success="True" time="7.378" asserts="1" />
+              <test-case name="smoke_navigator.NavigationBar.TC4_isSearchPresent" executed="True" result="Success" success="True" time="0.231" asserts="1" />
+              <test-case name="smoke_navigator.NavigationBar.TC5_isSearchPlaceholderPresent" executed="True" result="Success" success="True" time="0.048" asserts="1" />
+              <test-case name="smoke_navigator.NavigationBar.TC6_isSearchDropdownOpened" executed="True" result="Success" success="True" time="2.314" asserts="1" />
+              <test-case name="smoke_navigator.NavigationBar.TC7_isSearchAutocomplete" executed="True" result="Success" success="True" time="3.806" asserts="1" />
+              <test-case name="smoke_navigator.NavigationBar.TC8_isSearchKeypadArrowsPossible" executed="True" result="Success" success="True" time="1.629" asserts="0" />
+              <test-case name="smoke_navigator.NavigationBar.TC9_isCreatePlaceButtonPresent" executed="True" result="Success" success="True" time="0.204" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

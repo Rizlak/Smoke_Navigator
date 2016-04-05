@@ -1,0 +1,13 @@
+C:\Users\Q\Documents\workspace\smoke_navigator\smoke_navigator\bin\Debug\smoke_navigator.dll
+C:\Users\Q\Documents\workspace\smoke_navigator\smoke_navigator\bin\Debug\smoke_navigator.pdb
+C:\Users\Q\Documents\workspace\smoke_navigator\smoke_navigator\bin\Debug\nunit.framework.dll
+C:\Users\Q\Documents\workspace\smoke_navigator\smoke_navigator\bin\Debug\nunit.mocks.dll
+C:\Users\Q\Documents\workspace\smoke_navigator\smoke_navigator\bin\Debug\WebDriver.dll
+C:\Users\Q\Documents\workspace\smoke_navigator\smoke_navigator\bin\Debug\WebDriver.Support.dll
+C:\Users\Q\Documents\workspace\smoke_navigator\smoke_navigator\bin\Debug\nunit.framework.xml
+C:\Users\Q\Documents\workspace\smoke_navigator\smoke_navigator\bin\Debug\WebDriver.xml
+C:\Users\Q\Documents\workspace\smoke_navigator\smoke_navigator\bin\Debug\WebDriver.Support.xml
+C:\Users\Q\Documents\workspace\smoke_navigator\smoke_navigator\obj\Debug\smoke_navigator.dll
+C:\Users\Q\Documents\workspace\smoke_navigator\smoke_navigator\obj\Debug\smoke_navigator.pdb
+C:\Users\Q\Documents\workspace\smoke_navigator\smoke_navigator\bin\Debug\chromedriver.exe
+C:\Users\Q\Documents\workspace\smoke_navigator\smoke_navigator\obj\Debug\smoke_navigator.csprojResolveAssemblyReference.cache
