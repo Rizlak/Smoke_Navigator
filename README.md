@@ -15,7 +15,7 @@ NUnit provides two utilities which can be used for running automated tests:
 nunit-gui.exe, a GUI tool which I most commonly use, and nunit-console.exe, which is a console program
 
 Once you have installed NUnit you can test if the installation has gone through properly using the nunit-gui.exe tool. This can be run from Start Menu --> Programs --> Nunit --> NUnit GUI. 
-After opening the tool, click on the File --> Open and open the nunit.tests.dll from the smoke_navigator\smoke_navigator\bin\Debug folder. When the smoke_navigator.DLL is chosen, NUnit-GUI shows all the unit test code written for the particular DLL using the NUnit 
+After opening the tool, click on the File --> Open and open the nunit.tests.dll from the smoke_navigator\smoke_navigator\bin\Debug folder. When the "smoke_navigator.dll" is chosen, NUnit-GUI shows all the unit test code written for the particular DLL using the NUnit 
 framework. Now you can select which test/tests you want and click Run button. When button Run is clicked, it will show the results as follows.
 
 Passed Test - Green color
